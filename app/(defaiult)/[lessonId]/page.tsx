@@ -20,8 +20,8 @@ export default async function LessonDetails({ params }: { params: Promise<{ less
     return (
         <div>
             <VideoPlayer
-                nextUrl={nextLesson ? `/course-details/${nextLesson.id}` : null}
-                privousLesson={privousLesson ? `/course-details/${privousLesson.id}` : null}
+                nextUrl={nextLesson ? `/${nextLesson.id}` : null}
+                privousLesson={privousLesson ? `/${privousLesson.id}` : null}
                 url={lesson.videoUrl || ''}
             />
         </div>

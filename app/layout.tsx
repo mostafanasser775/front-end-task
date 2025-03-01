@@ -8,7 +8,6 @@ import { Providers } from "./providers";
 import { Navbar } from "@/components/navbar";
 import { fontSans } from "@/fonts";
 import { PageHeader } from "@/components/page-Header";
-import { redirect } from "next/navigation";
 
 export const metadata: Metadata = {
   title: "Next.js App Template",
