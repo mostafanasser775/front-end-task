@@ -58,7 +58,7 @@ export default function CourseContent(
           <div className="w-full mt-4">
             <div className="flex justify-between mb-1 text-sm dark:text-gray-300">
               <span>Progress</span>
-              <span>83%</span>
+              <span>73%</span>
             </div>
             <Progress className="h-2 bg-gray-200 dark:bg-gray-600" value={73} />
           </div>
