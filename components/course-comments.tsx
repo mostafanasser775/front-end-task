@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { ArrowRight } from "lucide-react";
 import { Card, CardBody, CardHeader } from "@heroui/card";
 import { Button } from "@heroui/button";
@@ -9,6 +9,18 @@ import { Avatar } from "@heroui/avatar";
 
 export default function CourseComments() {
   const [comment, setComment] = useState("");
+
+  useEffect(() => {
+    const savedComment = localStorage.getItem("comment");
+
+    if (savedComment) {
+      setComment(savedComment);
+    }
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem("comment", comment);
+  }, [comment]);
 
   const comments = [
     {
