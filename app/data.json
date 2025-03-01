@@ -1,0 +1,247 @@
+{
+  "courseWeeks": [
+    {
+      "id": "week-1",
+      "title": "Week 1-4",
+      "description": "Advanced SEO techniques for beginners: Keywords, On-Page SEO & Link Building",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to SEO Fundamentals",
+          "duration": "5 MINUTES",
+          "completed": true,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740260612/mkbqrr2nyzp0ee28mynu.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 2,
+          "title": "Keyword Research Strategies",
+          "duration": "8 MINUTES",
+          "completed": true,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740261520/z3ltlfnxk1m2rymankwr.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 3,
+          "title": "On-Page SEO Optimization",
+          "duration": "10 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740261859/yruipvxk3j1bfuuf1t3a.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80"
+        },
+        {
+          "id": 4,
+          "title": "Course Exercise / Reference Files",
+          "duration": "",
+          "completed": false,
+          "locked": false,
+          "icon": "file",
+          "type": "file"
+        },
+        {
+          "id": 5,
+          "title": "Link Building Techniques",
+          "duration": "15 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740262079/iugm4197jwirvkhz3nxf.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80"
+        },
+        {
+          "id": 6,
+          "title": "Technical SEO Essentials",
+          "duration": "12 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740262180/wwmyprogbs1zeh96gtc8.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 7,
+          "title": "Week 1-4 Assessment",
+          "duration": "20 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "exam",
+          "type": "exam",
+          "questions": 10
+        }
+      ]
+    },
+    {
+      "id": "week-5",
+      "title": "Week 5-8",
+      "description": "Intermediate SEO strategies: Technical SEO, Mobile Optimization & Local SEO",
+      "lessons": [
+        {
+          "id": 8,
+          "title": "Mobile SEO Optimization",
+          "duration": "18 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740248129/wcydub9wkvtrckgjhfm0.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 9,
+          "title": "Local SEO Strategies",
+          "duration": "14 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740345362/mazai7sf5wig93ic0bom.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1572021335469-31706a17aaef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 10,
+          "title": "SEO Analytics & Reporting",
+          "duration": "15 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740272188/ucgi3zqozhjbruedxtge.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 11,
+          "title": "Content Marketing for SEO",
+          "duration": "20 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740345318/moxcxiwhk85gqhmcsnqb.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 12,
+          "title": "Practice Exercise Files",
+          "duration": "",
+          "completed": false,
+          "locked": false,
+          "icon": "file",
+          "type": "file"
+        },
+        {
+          "id": 13,
+          "title": "SEO Audit Fundamentals",
+          "duration": "16 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740345438/stndylxlnyl7t49xqdcw.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 14,
+          "title": "Week 5-8 Assessment",
+          "duration": "25 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "exam",
+          "type": "exam",
+          "questions": 15
+        }
+      ]
+    },
+    {
+      "id": "week-9",
+      "title": "Week 9-12",
+      "description": "Advanced SEO mastery: E-commerce, International SEO & Analytics",
+      "lessons": [
+        {
+          "id": 15,
+          "title": "E-commerce SEO Techniques",
+          "duration": "22 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740405987/okdtnymibl260naka6yi.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 16,
+          "title": "International SEO",
+          "duration": "18 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740405947/ic2fke9wibndxd2kuthw.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 17,
+          "title": "SEO Case Studies",
+          "duration": "15 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740353024/jxkdnr6hpfs252aovsd1.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 18,
+          "title": "Advanced Analytics",
+          "duration": "25 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740352967/bochfejge1vakimaku76.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+        },
+        {
+          "id": 19,
+          "title": "Final Project Guidelines",
+          "duration": "",
+          "completed": false,
+          "locked": false,
+          "icon": "file",
+          "type": "file"
+        },
+        {
+          "id": 20,
+          "title": "Course Conclusion",
+          "duration": "10 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "video",
+          "type": "video",
+          "videoUrl": "https://res.cloudinary.com/dqtdcwtys/video/upload/v1740352908/qmizborgqahdpzyvubrd.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+        },
+        {
+          "id": 21,
+          "title": "Final Assessment",
+          "duration": "30 MINUTES",
+          "completed": false,
+          "locked": false,
+          "icon": "exam",
+          "type": "exam",
+          "questions": 20
+        }
+      ]
+    }
+  ]
+}
